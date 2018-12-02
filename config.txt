@@ -1,6 +1,6 @@
 token=NTE2MjkwOTc3NjE5NjQwMzIx.DtxzVg.p3TZym8Id6PSoA7Gw6HlOr6Z5Qo
 owner=465811762386567168
-prefix= 5
-game= 5play
+prefix= Vi
+game= Viplay
 stayinchannel=true
 songinstatus=true 
